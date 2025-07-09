@@ -1,0 +1,5 @@
+streamlit
+speech_recognition
+googletrans
+gtts 
+PIL
