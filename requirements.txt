@@ -1,5 +1,5 @@
-streamlit
-speech_recognition
-googletrans
-gtts 
-PIL
+streamlit==1.44.1
+SpeechRecognition==3.14.3
+googletrans==4.0.0rc1
+gTTS==2.5.4
+pillow==11.1.0
