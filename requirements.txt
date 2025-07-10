@@ -1,5 +1,6 @@
 streamlit==1.44.1
 SpeechRecognition==3.14.3
-deep-translator
+googletrans
 gTTS==2.5.4
 pillow==11.1.0
+pythoncgi
